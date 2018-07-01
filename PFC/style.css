@@ -1,0 +1,191 @@
+h1	{
+	color: #FFF;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    font-weight: 600;
+    margin-left: 5%;
+    float: left;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: #007054;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #007054;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:500;
+    clear: both;
+
+}
+
+nav li {
+    float: right;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #FFF;
+    color: #007054;
+}
+
+iframe {
+    width: 100%;
+    margin-bottom: : 1%
+    height: 10px;
+    position: fixed;
+    bottom: 0;
+    float: left;
+}
+
+p {
+    color: #FFF;
+    margin: 10%%;
+    text-align: center;
+    font-size: 10%;
+}
+
+body {
+    background-image: url("IMG_0708.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hours {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: transparent;
+    color: #FFF;
+    margin: 17%;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+.hoo {
+}
+
+.time {
+    text-align: center;
+    float: none;
+}
+
+.bottom {
+    margin-bottom: 1%;
+}
+
+.mySlides {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 2%;
+    height: 450px;
+    width: 75%;
+}
+
+.credit {
+    font-size: 10%;
+    float: right;
+    margin-right:15%;
+}
+
+.sp {
+    text-align: center;
+    float: none;
+    color: black;
+    font-family: "Source Sans Pro";
+    font-size: 700;
+    margin-left: 25%
+}
+
+.rules {
+    color: black;
+    text-align: center;
+    float: none;
+    background-color: transparent;
+    font-family: "Source Sans Pro";
+    font-size: 700;
+}
+
+.pfclogo {
+    height: 10%;
+    width: 10%;
+    float: right;
+    margin-bottom:.25%;
+}
+
+.skate {
+    background-color: #007054 
+}
+
+.skatebg {
+    background-image: url("skatebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.test {
+    font-size: large;
+    color: black;
+    background-color:;
+    border-radius: 1%
+    margin-top: 5%;
+    clear: both;
+}
+
+h3  {
+    text-align: center; 
+    float: none;
+}
+
+.pfclist1
+    {
+        color: black;
+        font-weight: 700;
+        float:left;
+        font-family: 'Source Sans Pro';
+        width: 50%;
+    }
+
+.pfclist2 {
+        color: black;
+        font-weight: 700;
+        float:left;
+        font-family: 'Source Sans Pro';
+        width: 50%;
+}
+
+.pfcsell {
+    background-color: transparent;
+    text-align: center;
+}   
+
+.pfchours {
+    background-color: transparent;
+    text-align: center;
+    margin-bottom: 2%
+}
+
+.clear {
+    clear: both;
+}
+
+.calendar {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 1%
+}
+
+.info {
+    float: left;
+}
